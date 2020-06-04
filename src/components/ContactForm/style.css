@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#submitBtn {
+    background-color: rgba(18, 29, 68, 0.658);
+    border: none;
+    font-weight: 400;
+    color: #26291A;
+    letter-spacing: 1.2px;
+}
+
+#submitBtn:hover {
+    background-color: rgb(5, 59, 236);
+}

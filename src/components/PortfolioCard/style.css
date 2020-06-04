@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.portfolioCard {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+
+.portfolioLink {
+    height: 32px;
+    padding: 10px 20px;
+    background-color: rgba(18, 29, 68, 0.658);
+    font-size: 14px;
+    font-weight: 400;
+    border: none;
+    letter-spacing: 1.2px;
+    color: rgb(5, 59, 236);
+    margin-right: 10px;
+}
+
+.portfolioLink:hover {
+    background-color: rgba(18, 29, 68, 0.658);
+    color: rgb(5, 59, 236);
+    text-decoration: none;
+}

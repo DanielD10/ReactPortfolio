@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contactInfo a {
+    color: rgb(5, 59, 236);
+}
+
+.contactLabel {
+    margin-bottom: 4px;
+}
+
+.contactDesc {
+    color: #f2f2f2;
+    margin-bottom: 20px;
+}
+
+.contactIcon {
+    margin-right: 8px;
+}
+
+.uk-divider-small::after {
+    border-top: 1px solid rgb(5, 59, 236);
+}

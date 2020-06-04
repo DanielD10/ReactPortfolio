@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.greeting {
+    font-size: 100px;
+    color: #f2f2f2;
+    font-family: 'Roboto Slab', serif;
+    line-height: 1.1;
+}
+
+.greeting span {
+    color: rgb(5, 59, 236);;
+}
+
+.subHeading {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    color: #f2f2f2;
+}
+
+.ctaBtn {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(5, 59, 236);
+    font-weight: 400;
+    border: none;
+    letter-spacing: 1.2px;
+}
+
+.ctaBtn:hover {
+    background-color: rgba(18, 29, 68, 0.658);
+}
+
+.ctaBtn a {
+    text-decoration: none;
+    color: rgba(18, 29, 68, 0.658);
+}
