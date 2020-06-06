@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.85f7a415.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.ccc2cc64.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.ccc2cc64.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js.map",
+    "static/js/2.5629b473.chunk.js": "/ReactPortfolio/static/js/2.5629b473.chunk.js",
+    "static/js/2.5629b473.chunk.js.map": "/ReactPortfolio/static/js/2.5629b473.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.1b405b2db5079d7a03d6683f366dd21c.js": "/ReactPortfolio/precache-manifest.1b405b2db5079d7a03d6683f366dd21c.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/main.85f7a415.chunk.css.map": "/ReactPortfolio/static/css/main.85f7a415.chunk.css.map",
+    "static/js/2.5629b473.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.5629b473.chunk.js.LICENSE.txt",
+    "static/media/careerResourcesWiki.jpg": "/ReactPortfolio/static/media/careerResourcesWiki.0b54d114.jpg",
+    "static/media/danielDuranResume.pdf": "/ReactPortfolio/static/media/danielDuranResume.60703539.pdf",
+    "static/media/danielHeadshot.jpg": "/ReactPortfolio/static/media/danielHeadshot.f570e9a7.jpg",
+    "static/media/eTracker.gif": "/ReactPortfolio/static/media/eTracker.9db691d4.gif",
+    "static/media/passwordGen.png": "/ReactPortfolio/static/media/passwordGen.bb1a5ecc.png",
+    "static/media/sOUNDthis.png": "/ReactPortfolio/static/media/sOUNDthis.326fe223.png",
+    "static/media/teamGenerator.png": "/ReactPortfolio/static/media/teamGenerator.6a5489e7.png",
+    "static/media/weatherDash.png": "/ReactPortfolio/static/media/weatherDash.51c2621a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b506dc4.js",
+    "static/js/2.5629b473.chunk.js",
+    "static/css/main.85f7a415.chunk.css",
+    "static/js/main.ccc2cc64.chunk.js"
+  ]
+}
